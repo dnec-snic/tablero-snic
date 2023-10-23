@@ -1,2 +1,2 @@
 # tablero-snic
-Tablero SNIC
+Script e insumos del Tablero SNIC publicado en https://snic.minseg.gob.ar/
