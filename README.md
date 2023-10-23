@@ -1,0 +1,2 @@
+# tablero-snic
+Tablero SNIC
